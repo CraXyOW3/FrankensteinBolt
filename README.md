@@ -1,2 +1,2 @@
 # FrankensteinBolt
-FrankenBolt is a filament Tolheadsensor for the Frankenstein Duct by KevinAKASam.
+FrankenBolt is a filament Toolheadsensor for the Frankenstein Duct by KevinAKASam. https://github.com/kevinakasam/FrankEnstein-Duct
